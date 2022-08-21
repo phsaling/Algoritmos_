@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1657141862 source:d:\connect\algoritmos\lista_02 - paulo henrique saling\exercicio_15\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
