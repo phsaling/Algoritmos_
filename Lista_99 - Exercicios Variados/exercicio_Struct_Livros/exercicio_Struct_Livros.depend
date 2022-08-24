@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1661278442 source:e:\connect\algoritmos\exercicio_struct_livros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
